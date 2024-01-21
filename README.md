@@ -4,7 +4,7 @@
 [![Shop: Tindie](https://img.shields.io/badge/shop-Tindie-blue?style=flat-square)](https://www.tindie.com/stores/binary-6/?ref=offsite_badges&utm_source=sellers_Chrismettal&utm_medium=badges&utm_campaign=badge_medium)
 [![Donations: Coffee](https://img.shields.io/badge/donations-Coffee-brown?style=flat-square)](https://github.com/Chrismettal#donations)
 
-Documentation of a reversed no-name USB to Modbus converter. It seems to be using some non-standard automatic `DE/NRE` handling that I would like to use for my [PiPLC project](https://github.com/chrismettal/piplc) for software that can't use manual DE/NRE switching, light Home Assistant.
+Documentation of a reversed no-name USB to Modbus converter. It seems to be using some non-standard automatic `DE/NRE` handling that I would like to use for my [PiPLC project](https://github.com/chrismettal/piplc) for software that can't use manual `DE/NRE` switching, like Home Assistant.
 
 A KiCAD project is included, but only for reversing the original PCB, and not to recreate a new one. Though I might change my mind later.
 
