@@ -45,7 +45,7 @@ These scans were imported into KiCAD as layer images to trace over. All depopula
 
 This let's us end up with the following schematic:
 
-![Schematic](/img/Schematic.png.png)
+![Schematic](/img/Schematic.png)
 
 ## Observations
 
