@@ -25,36 +25,6 @@ TODO
 
 TODO
 
-## BOM 
-
-Temporary BOM before KiCAD project is created
-
-R1 "752" 7k5
-R2 "224" 220k
-R3 "222" 2k2
-R4 "472" 4k7
-R5 "222" 2k2
-R6 "203" 20k
-R7 DNP
-
-C1 DNP
-C2 DNP
-C3 112nF
-C4 6.7uF
-C5 113nF
-C6 40pF
-
-U1 CH340G ?
-U2 MAX485 ESA +2314
-
-Q1 "HM6C"
-
-D1 6V8A
-D2 6V8A
-D3 6V8A
-
-Crystal "12M" DNP
-
 ## Donations
 
 **If you like my work please consider [supporting me](https://github.com/Chrismettal#donations)!**
